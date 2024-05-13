@@ -1,0 +1,16 @@
+.botao{
+    color: black;
+    background-color: white;
+    border-radius: 0.5rem;   
+    margin-left: 2rem;
+    padding: 0.5rem;
+}
+.titulo{
+    color: black;
+    background-color: white;
+    border-radius: 0.5rem;   
+    padding: 0.5rem;
+}
+.botao:hover, .titulo:hover{
+    color: purple;
+}
